@@ -1,5 +1,8 @@
 ## 黑马程序员 120天全栈区块链开发
 
+### 郑重声明： 本套课程采用CC-BY-SA-4.0协议开源， 任何人可以免费传播使用，只需要保留出处和版权。不得私自贩卖盈利。 如果大家发现其他培训机构盗用黑马程序员区块链的课程，在淘宝售卖黑马程序员区块链的课程，请发送证据到email: 2698900570@qq.com举报， 如果可以提供能用于法律诉讼的必备资料， 奖励以太币一枚。
+
+
 ### 写在前面
 据说2018年谈区块链的10个人中有9个都是骗子, 
 一些机构自己都没搞懂区块链是什么, 
@@ -27,31 +30,26 @@
 ### 课程服务
 1. 开源课程全部免费,  随着传智播客面授班级授课周期, 同步开源更新
 2. 但因区块链技术变化日新月异, 课程中部分工具和方法可能会随着版本的更新失效, 关于课程讲解若有更好的方式, 欢迎pull request.
-3. 没有毅力 自主学完全套课程的朋友,  可以报名传智播客 黑马程序员 智能物联网+区块链就业班
+3. 没有毅力 自主学完全套课程的朋友,  可以报名传智播客 黑马程序员 区块链就业班
 
-课程表 | 视频名称 | 下载地址
--| - | -
-开班典礼|01_从实体货币到数字货币|https://pan.baidu.com/s/1yW929XMP_fuBBg7Yi7tFIg
-开班典礼|02_分布式记账|https://pan.baidu.com/s/1rr5ID89fSPajwNaBHrUXMg
-开班典礼|03_中心化和去中心化|https://pan.baidu.com/s/1Br4Zy-fzZUJ_heGkfUb6mw
-开班典礼|04_hash函数|https://pan.baidu.com/s/1uJ89F3ETsHmfPmU3c5Idgw
-开班典礼|05_hash算法的安全性|https://pan.baidu.com/s/1NWaykKebdU76JZC_cT02Vg
-开班典礼|06_分布式系统和数据一致性|https://pan.baidu.com/s/1ABEJwUsltPf9A9416titAg
-开班典礼|07_通货膨胀和比特币|https://pan.baidu.com/s/1KY2cRI0TNjKFWSpi_j8xWA
-开班典礼|08_区块链技术的演化|https://pan.baidu.com/s/1qIt969qHiQPxEor1GdX1_A
-开班典礼|09_区块链的应用场景|https://pan.baidu.com/s/1gEBqueKmYRwx2waxpKDVKg
-开班典礼|10_我到底需不需要区块链技术|https://pan.baidu.com/s/1HXIM9SI9P0CKpuCOikqYSw
-开班典礼|11_如何鉴别区块链风口里的猪|https://pan.baidu.com/s/14z3MPBOHt8lizvwhjLKZMg
-开班典礼|12_区块链项目的评估方法|https://pan.baidu.com/s/1aYajM01WjQGAoJ1z4gJnFg
-开班典礼|13_ico和ipo和daico|https://pan.baidu.com/s/1TniVTbkxTgygEIbymCyuJw
-开班典礼|14_关于区块链的错误认知|https://pan.baidu.com/s/17LmSsgD7RySB9vU9Zymz-g
-开班典礼|15_分布式系统的一些概念|https://pan.baidu.com/s/13se0IiA8C5zRsWjE4F3NFA
-开班典礼|16_区块链技术栈和学习线路图|https://pan.baidu.com/s/1d9RXv_Qh3srl9a9PqE9ibQ
-开班典礼|17_区块链的技术现状|https://pan.baidu.com/s/1auv18CFORJpWNqVfeaHESg
+   ​
+
+
+
+
+### 课程答疑qq群
+【答疑群】：https://jq.qq.com/?_wv=1027&k=5D3no1J
+
+### 学习前提
+本套课程建议大家需要具备java基础, 
+java基础全套视频:
+链接：https://pan.baidu.com/s/1mIAre7nvi5ubmLOnINV-fg 密码：gsvr
+
 
 
 
 ### 课程课表
+
  - **第一周: java加强/kotlin/dsl/函数式编程/gradle/git/高阶函数/lambda表达式**
     - 课程设计背景:
       kotlin是一个非常具有潜力和启发性的编程语言，100%与Java兼容, 安卓开发谷歌官方指定语言，它吸收和借鉴了Java， Scala， Groovy， C#，Go，JavaScript等语言的优点和特性，可以让大家脱离语言层面的纷争，把目光投向具体的业务. 目前区块链金融和银行领域的解决方案corda就是采用kotlin编写.掌握kotlin语言有助于帮助程序员用极小的成本理解和学习其他编程语言.
@@ -72,9 +70,7 @@
     - 课程学习说明:
       每一个程序员都应该好好听一下这一段课程
 
-    - 课程开源时间:
 
-      2018年5月13日
 
  - **第二周:区块链前端开发基础**
     - 课程设计背景:
@@ -94,9 +90,6 @@
     - 课程学习说明:
       熟悉前端技术栈的程序员可以选择性的学习
 
-    - 课程开源时间:
-
-      2018年5月24日
 
  - **第三周:Java分布式/springboot/springcloud/微服务/数据库技术**
     - 课程设计背景:
@@ -117,9 +110,7 @@
     - 课程学习说明:
       熟悉spring全家桶的java程序员可以选择性的学习
 
-    - 课程开源时间:
 
-      2018年6月10日
 
  - **第四周: 微服务+支付 springboot版互联网彩票项目实战**
     - 课程设计背景:
@@ -139,9 +130,7 @@
     - 课程学习说明:
       从项目原型设计到实战, 全干货实战课程, 无论几年工作经验的程序员都有必要学习
 
-    - 课程开源时间:
 
-      2018年6月18日
 
  - **第五周: 区块链前端和中间件开发 Nodejs+Vue+React**
     - 课程设计背景:
@@ -158,9 +147,7 @@
     - 课程学习说明:
       经验丰富,熟练掌握vue,react和nodejs的前端程序员可以跳过这段课程
 
-    - 课程开源时间:
 
-      2018年7月6日
 
 - **第六周: 区块链项目实战 -- IPFS音乐播放器项目**
     - 课程设计背景:
@@ -181,9 +168,7 @@
     - 课程学习说明:
       实战项目,每个对ipfs有兴趣的程序员都有必要学习
 
-    - 课程开源时间:
 
-      2018年7月14日
 
 - **第七周--第八周:  以太坊和智能合约项目实战**
     - 课程设计背景:
@@ -214,49 +199,9 @@
     - 课程学习说明:
       课程以实战为主,会讲解去**中心化彩票项目和众筹项目开发**, 强烈建议认真学习.
 
-    - 课程开源时间:
-
-      2018年7月24日
 
 
-课程表 | 视频名称 | 下载地址
--| - | -
-week7/day01|01_课程简介|https://pan.baidu.com/s/1vyuydXrAQSICw0MOfKNgEQ
-week7/day01|02_以太坊的历史|https://pan.baidu.com/s/1DJx5g3dhzEi9CA7beqEDkg
-week7/day01|03_以太坊和以太坊网络|https://pan.baidu.com/s/1vutWpw07r5vmr252nIbNtA
-week7/day01|04_和以太坊网络交互的方式|https://pan.baidu.com/s/10ySQp2dP3o5DUELv2jh2FA
-week7/day01|05_metamask的安装和基本操作|https://pan.baidu.com/s/1e-shvnS5p6WmQoO-IZM1lw
-week7/day01|06_以太坊钱包地址详解|https://pan.baidu.com/s/1atRkB7xPkoQXAcoI1RT7qw
-week7/day01|07_如何获取以太币|https://pan.baidu.com/s/1bsxrgRHHuKAKR9A9tUsbMw
-week7/day01|08_转账过程详解|https://pan.baidu.com/s/127KQBTBWzj4JhYxQZUXMfQ
-week7/day01|09_为什么转账需要一些时间|https://pan.baidu.com/s/1e-UbQWBvD0TQlpRQFtVrPw
-week7/day01|更多内容|等待上传...
 
-
-课程表 | 视频名称 | 下载地址
--| - | -
-week7/day03|01_业务分析|https://pan.baidu.com/s/1cTAdME1EF20kxGAFry9yKw
-week7/day03|02_智能合约的初步设计|https://pan.baidu.com/s/1OUpfXQs4yzrcOAn8XHRH6w
-week7/day03|03_solidity编程语言数据基本类型|https://pan.baidu.com/s/1aib1_Yg44us5RLDyeNY6rQ
-week7/day03|04_彩票智能合约初步编写|https://pan.baidu.com/s/1PGuc0ajDHjEWhsz4fVwTuQ
-week7/day03|05_彩票智能合约的manager赋值|https://pan.baidu.com/s/1Od_m_5hoRFHQauQ2FytqoQ
-week7/day03|06_solidity数组讲解|https://pan.baidu.com/s/13MXnDVzwr3VwXN2K1Vj0Mg
-week7/day03|07_solidity数组开发的小坑|https://pan.baidu.com/s/1ez-_Sw8CLOu1Q1ESc_gcHA
-week7/day03|08_支付的校验|https://pan.baidu.com/s/1IReaf6zv1zE7bh4GkDr98Q
-week7/day03|09_智能合约的debug|https://pan.baidu.com/s/1JZ97eVt0gJW3lyY-j4Oi5g
-week7/day03|10_公众查询奖金池里面有多少钱|https://pan.baidu.com/s/1U9y87ZbDlXrDyO0WQEBq0g
-week7/day03|11_彩票开奖的逻辑|https://pan.baidu.com/s/1PIel3YRfC3RYuHfuIlPi7A
-week7/day03|12_随机数生成器|https://pan.baidu.com/s/1q7TAg3wVmZ5T2ijdcFbCVA
-week7/day03|13_选取幸运的彩民|https://pan.baidu.com/s/1mBaJVGRta-W10983huB-JQ
-week7/day03|14_智能合约自动发送奖金给中奖者|https://pan.baidu.com/s/1YZn7AO8U-OwE5KuD_5Tgcw
-week7/day03|15_彩票智能合约业务逻辑细节修复|https://pan.baidu.com/s/1pKiEuuCBcCU2SDImJ3oo4Q
-week7/day03|16_彩票智能合约权限相关漏洞修复|https://pan.baidu.com/s/14aWRo4vVqCGpHRQgYGzGBA
-week7/day03|17_solidity高效特性内联函数modifier|https://pan.baidu.com/s/1DaFTA0FD4aMRZZzfB5NtKg
-week7/day03|18_手动测试彩票智能合约的逻辑|https://pan.baidu.com/s/1OlskLELc8XgAY2hgz4a9_Q
-week7/day03|19_搭建ide测试开发环境|https://pan.baidu.com/s/179caqckJVKbZwvja3tK3Yw
-week7/day03|20_单元测试智能合约的编译和部署|https://pan.baidu.com/s/1LuUubPxTvFCIqWL9rxFncA
-week7/day03|21_智能合约购买彩票和查询奖池的测试|https://pan.baidu.com/s/1wWpPI5O2Iy9nhJzA261UYg
-week7/day03|前端项目开发|等待上传...
 
 
 - **第九周:  区块链产品经理之道**
@@ -283,9 +228,7 @@ week7/day03|前端项目开发|等待上传...
     - 课程学习说明:
       伪区块链技术和真区块链技术需要产品经理好好把握, 区块链解决的痛点是什么,值得大家思考
 
-    - 课程开源时间:
 
-      2018年7月29日
 
 - **第十周:  hyperledger 企业级开发项目实战 -- 江苏省农牧厅渔业管理系统**
 
@@ -308,37 +251,8 @@ week7/day03|前端项目开发|等待上传...
     - 课程学习说明:
       课程通过实战案例,分析hyperledger的应用场景,带你分析业务,最后实现项目
 
-    - 课程开源时间:
-
-      2018年8月9日
 
 
-
-课程表 | 视频名称 | 下载地址
--| - | -
-week10/day01 | 01_hyperledger是什么                             | https://pan.baidu.com/s/1mxBeIyBlsy8UwBnvFP78Kw 
-week10/day01 | 02_hyperledger学习目标                           | https://pan.baidu.com/s/1YZADE48SjcqH4FKn7qsBiw 
-week10/day01 | 03_hyperledger重建信任                           | https://pan.baidu.com/s/1VwN9Omb42k0NCoiCa96fJw 
-week10/day01 | 04_hyperledger如何解决现实问题                   | https://pan.baidu.com/s/1lziZ_63kfzE7hKmYDb-LNw 
-week10/day01 | 05_hyperledger重要组件CA,peer和ordering          | https://pan.baidu.com/s/13CbBZhglRyGCFw5XUBWokQ 
-week10/day01 | 06_hyperledger案例实战--江苏省农牧厅渔政管理系统 | https://pan.baidu.com/s/1OZz5CscVcTOHSxqSU2OBOg 
-week10/day01 | 07_hyperledger的channel                          | https://pan.baidu.com/s/1GEkpK63P61OLJxtCbsRZ7w 
-week10/day01 | 08_hyperledger的chaincode                        | https://pan.baidu.com/s/1ClxMg7ZajZaOZutSCK9V0g 
-week10/day01 | 09_hyperledger的工作流程(重要)                   | https://pan.baidu.com/s/1r5dqkxeLFAsGenjqaRZLIA 
-week10/day01 | 10_hyperledger的msp                              | https://pan.baidu.com/s/13T9nf4xsL_8QJd262_sQpw 
-week10/day01 | 11_hyperledger术语回顾                           | https://pan.baidu.com/s/13-PzjVvwJxcoNHAPbxLQ6A 
-week10/day01 | 12_hyperledger案例实战--生产者业务分析           | https://pan.baidu.com/s/13_t3uKnQkq_DVFkTpsL-lA 
-week10/day01 | 13_hyperledger案例实战--消费者业务分析           | https://pan.baidu.com/s/1DTLSofrOH1OVjljmVa58qg        
-week10/day01 | 14_hyperledger案例实战--隐私业务分析             | https://pan.baidu.com/s/1LFkzfA1Oh4db2j008ba0Xg 
-week10/day01 | 15_hyperledger案例实战--渔政监管需求分析         | https://pan.baidu.com/s/1-45AN9lS742WJrVExharGQ 
-week10/day01 | 16_hyperledger案例实战--msp管理                  | https://pan.baidu.com/s/1VpOQzUuKVR-PU7pO1E2Sug 
-week10/day01 | 17_hyperledger案例实战--业务复盘                 | https://pan.baidu.com/s/1W8-qvPYArcyqBG654vYjnA 
-week10/day01 | 18_hyperledger案例实战--手把手环境搭建           | https://pan.baidu.com/s/1-q93okIZ2oZ3kruDX60DAw 
-week10/day01 | 19_hyperledger案例实战--安装git和docker          | https://pan.baidu.com/s/1XkFvJPwHUIY4oUe4RPVx9Q 
-week10/day01 | 20_hyperledger案例实战--tools和docker镜像安装    | https://pan.baidu.com/s/1oHZ7i3i-1oB4y_DVCMbI1A 
-week10/day01 | 21_hyperledger案例实战--first-network            | https://pan.baidu.com/s/1FU6M5c9OHLdvE9zs4XEXuQ 
-week10/day01 | 22_hyperledger案例实战--chaincode讲解            | https://pan.baidu.com/s/194LKUBBj6H8e3FddhUs8fA 
-week10/day01 | 更多内容            | 等待上传... 
 - **第十一周:  区块链移动开发+智能物联网**
 
     - 课程设计背景:
@@ -362,9 +276,7 @@ week10/day01 | 更多内容            | 等待上传...
     - 课程学习说明:
       生鲜溯源, gps+传感器冷链跟踪, IOTA给区块链更多想象的空间. 
 
-    - 课程开源时间:
 
-      2018年8月20日
 
  - **第十二周:  赠送课程: Go语言快速入门**
 
@@ -387,6 +299,35 @@ week10/day01 | 更多内容            | 等待上传...
 
       快速教大家使用go语言重写nodejs的智能合约. 
 
-    - 课程开源时间:
 
-      2018年9月10日     
+
+
+## 其他相关资料
+
+| 第一阶段：区块链主流语言:Go语言开发实战             | 20小时入门学会go语言                                         | https://pan.baidu.com/s/1jJPsThk                |
+| --------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------- |
+| **（新）**go语言与区块链(线下基础班)精品课程        | https://pan.baidu.com/s/1s93rm-6pnK-Qa1Rnns6HhA              |                                                 |
+| Go语言Gui游戏开发——黑白棋                           | https://pan.baidu.com/s/1_Gmi2nKPaWw4LShOs60Hng              |                                                 |
+| 第二阶段：区块链后端技术体系:Go语言高并发服务器开发 | Linux从入门到精通                                            | https://pan.baidu.com/s/1ioqrYi1c4F_yRM9mWnX7sQ |
+| Go高并发服务器开发实战                              | 待更新                                                       |                                                 |
+| Go并发的爬虫系统开发实战                            | 待更新                                                       |                                                 |
+| 第三阶段：去中心化前端开发与web服务器开发           | **（新）**区块链精品教程系列【系统篇】                       | https://pan.baidu.com/s/1c9Q1IinabkKj6AxAYZz13Q |
+| 关系型数据库-mysql                                  | https://pan.baidu.com/s/1kVVL53L                             |                                                 |
+| redis                                               | <https://pan.baidu.com/s/1MGO0qtYj0F32OjjsQcvT8w>            |                                                 |
+| 分布式文件系统fastDFS                               | 待更新                                                       |                                                 |
+| 前端与移动开发基础视频                              | https://pan.baidu.com/s/1jIcd84e                             |                                                 |
+| 玩转Github开发                                      | https://pan.baidu.com/s/1c1kV5W                              |                                                 |
+| beego框架深入浅出视频                               | https://pan.baidu.com/s/17UJcE-FD9cdWGNTNZjRs0Q              |                                                 |
+| 大项目一RESTful接口设计电商项目                     | 待更新                                                       |                                                 |
+| 第四阶段：区块链密码学安全理论与开发                | ![img](http://bbs.itheima.com/data/attachment/forum/201808/07/180155q6jbkb86pvz86b2n.gif) **（新）**区块链编程精品教程系列【密码学篇】 | https://pan.baidu.com/s/11orEFkPmf2pJk-z6xTB9fg |
+| 第五阶段：区块链与智能合约开发                      | 区块链精品教程系列-智能合约篇                                | https://pan.baidu.com/s/16PGS7LBzC-INX8Vg6XakKQ |
+| Node.js                                             | https://pan.baidu.com/s/1hZ2FBzvES_Toz6SgW0t-AA              |                                                 |
+| 大项目二：以太坊DAPP开发实战                        | 待更新                                                       |                                                 |
+| 第六阶段：分布式微服务开发                          | docker神秘面纱                                               | https://pan.baidu.com/s/1boRwElh                |
+| 分布式微服务开发                                    | 待更新                                                       |                                                 |
+| 第七阶段：区块链系统框架开发                        | ![img](http://bbs.itheima.com/data/attachment/forum/201808/14/113432pdiznxdvunbetnjj.gif) 区块链框架Hyperledger项目案例(华为平台)首发 | https://pan.baidu.com/s/1tfqIziOjMcjvde8Y-VVR4A |
+| EOS开发实战                                         | 待更新                                                       |                                                 |
+| 大项目三：.微服务分布式租房去中心化系统             | 待更新                                                       |                                                 |
+| 第八阶段：Golang面试强化与脚本编程                  | Go与数据结构                                                 | 待更新                                          |
+| Go与常用算法                                        | 待更新                                                       |                                                 |
+| UnixShell脚本高级编程                               | 待更新                                                       |                                                 |
